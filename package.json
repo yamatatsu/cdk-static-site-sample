@@ -11,6 +11,7 @@
   "devDependencies": {
     "@types/node": "^10.9.4",
     "aws-cdk": "^0.30.0",
+    "prettier": "^1.17.0",
     "ts-node": "^8.1.0",
     "typescript": "^3.2.4"
   },
@@ -18,6 +19,7 @@
     "@aws-cdk/aws-cloudfront": "*",
     "@aws-cdk/aws-route53": "*",
     "@aws-cdk/aws-s3": "*",
+    "@aws-cdk/aws-s3-deployment": "^0.30.0",
     "@aws-cdk/aws-ssm": "*",
     "@aws-cdk/cdk": "*"
   }

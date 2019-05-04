@@ -1,3 +1,1 @@
-{
-  "app": "ts-node index.ts"
-}
+{ "app": "ts-node index.ts" }
